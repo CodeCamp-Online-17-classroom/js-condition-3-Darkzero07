@@ -1,1 +1,6 @@
-// write code here
+
+if (' ') alert('Yes');
+else alert('Nooo');
+
+// Yes
+
